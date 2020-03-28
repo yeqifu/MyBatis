@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mybatis.iml" filepath="$PROJECT_DIR$/.idea/Mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_eesy_01mybatis/day01_eesy_01mybatis.iml" filepath="$PROJECT_DIR$/day01_eesy_01mybatis/day01_eesy_01mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_eesy_02mybatis_annotation/day01_eesy_02mybatis_annotation.iml" filepath="$PROJECT_DIR$/day01_eesy_02mybatis_annotation/day01_eesy_02mybatis_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_eesy_03mybatis_dao/day01_eesy_03mybatis_dao.iml" filepath="$PROJECT_DIR$/day01_eesy_03mybatis_dao/day01_eesy_03mybatis_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_eesy_02mybatisDAO/day02_eesy_02mybatisDAO.iml" filepath="$PROJECT_DIR$/day02_eesy_02mybatisDAO/day02_eesy_02mybatisDAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_eesy_01datasourceAndTx/day03_eesy_01datasourceAndTx.iml" filepath="$PROJECT_DIR$/day03_eesy_01datasourceAndTx/day03_eesy_01datasourceAndTx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_eesy_02dynamicSQL/day03_eesy_02dynamicSQL.iml" filepath="$PROJECT_DIR$/day03_eesy_02dynamicSQL/day03_eesy_02dynamicSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_eesy_03one2many/day03_eesy_03one2many.iml" filepath="$PROJECT_DIR$/day03_eesy_03one2many/day03_eesy_03one2many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_eesy_04many2many/day03_eesy_04many2many.iml" filepath="$PROJECT_DIR$/day03_eesy_04many2many/day03_eesy_04many2many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_eesy_01lazy/day04_eesy_01lazy.iml" filepath="$PROJECT_DIR$/day04_eesy_01lazy/day04_eesy_01lazy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_eesy_03annotation_mybatis/day04_eesy_03annotation_mybatis.iml" filepath="$PROJECT_DIR$/day04_eesy_03annotation_mybatis/day04_eesy_03annotation_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_eesy_04annoOne2Many/day04_eesy_04annoOne2Many.iml" filepath="$PROJECT_DIR$/day04_eesy_04annoOne2Many/day04_eesy_04annoOne2Many.iml" />
+    </modules>
+  </component>
+</project>

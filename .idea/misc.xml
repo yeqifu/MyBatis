@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/day02_eesy_02mybatisDAO/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_01datasourceAndTx/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_02dynamicSQL/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_03one2many/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_04many2many/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_eesy_01lazy/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_eesy_03annotation_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_eesy_04annoOne2Many/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_eesy_03mybatis_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_eesy_01mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_eesy_02mybatis_annotation/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Thymeleaf</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ThymeleafVariablesResolveInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
